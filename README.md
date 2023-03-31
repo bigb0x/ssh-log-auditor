@@ -35,5 +35,4 @@ A MaxMind GeoIP2 database file.
 
 Feel free to contact [me](https://twitter.com/MohamedNab1l) if you do have any questions or suggestions.
 
-    enter code here
 
