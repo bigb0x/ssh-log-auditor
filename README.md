@@ -25,7 +25,7 @@ A MaxMind GeoIP2 database file.
 
 ## Usage
 
-`python3 ssh-log-auditor.py'`
+`python3 ssh-log-auditor.py`
 
 ## ssh-log-auditor Current Version
 
