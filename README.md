@@ -6,8 +6,8 @@ Script is created and maintained by [Mohamed Ali](https://twitter.com/MohamedNab
 
 ## Screenshots
 
-![Script in action](screens/Screenshot%202023-04-01%20010551.png)
-![Example output report](screens/Screenshot%202023-04-01%20011057.png)
+![Script in action](Screenshot%202023-04-01%20010551.png)
+![Example output report](Screenshot%202023-04-01%20011057.png)
 
 ## ssh-log-auditor Variables
 
